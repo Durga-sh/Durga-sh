@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://tse2.mm.bing.net/th?id=OIP.OB_RY-DmcydsKAR51HyjtQHaDH&pid=Api&P=0&h=180" alt="MasterHead" style="width: 60%;">
+</p>
 
-![MasterHead](https://tse2.mm.bing.net/th?id=OIP.MLwOz4IJvz7ncuIZzGiQrAHaB2&pid=Api&P=0&h=180)
 <h1 align="center">Hi 👋, I'm Durga</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://cdnp3.stackassets.com/fa6fd1e226152eba86fa65cef159cde3d5a40517/store/fd9cf709c1417e2cabff70f3d3d2b3be06d0becd1df0cccfc661d327a3a7/sale_229497_primary_image.jpg>
