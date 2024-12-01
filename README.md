@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tse2.mm.bing.net/th?id=OIP.OB_RY-DmcydsKAR51HyjtQHaDH&pid=Api&P=0&h=180" alt="MasterHead" style="width: 60%;">
+  <img src="https://tse2.mm.bing.net/th?id=OIP.OB_RY-DmcydsKAR51HyjtQHaDH&pid=Api&P=0&h=180" alt="MasterHead" style="width: 80%;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Durga</h1>
